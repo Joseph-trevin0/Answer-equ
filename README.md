@@ -2,7 +2,7 @@
 
 this was my first every C++ project 
 
-THe prupsoe of hte project was to help me get familar with the C++ programing language 
+The prupsoe of the project was to help me get familar with the C++ programing language 
 
 the goal of the project is to take in an equation, a number and solve it and display the  answer 
 
